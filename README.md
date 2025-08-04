@@ -18,6 +18,7 @@ Estructura en estrella con la tabla de hechos `Ventas` y múltiples dimensiones 
 
 ![Modelo de Datos](images/modelo_datos.png)
 
+
 ## 📐 Medidas DAX
 
 Incluye:
@@ -34,8 +35,9 @@ El tablero permite identificar oportunidades de mejora comercial y analizar la e
 
 ## 📄 Documentación Técnica
 
-- [Documentación Técnica del Dashboard Nike (2020–2024)](docs/Documentacion_Tecnica_Tablero_NIKE.docx)
-- [Medidas DAX utilizadas](MEDIDAS_DAX.md)
+- [Documentación Técnica del Dashboard Nike (2020–2024)](Docs/Documentación Técnica.pdf)
+
+- [Medidas DAX utilizadas](Docs/MEDIDAS_DAX.md)
 
 
 ## 🎨 Tema personalizado
