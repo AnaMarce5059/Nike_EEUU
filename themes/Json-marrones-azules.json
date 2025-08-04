@@ -1,0 +1,13 @@
+{
+    "name": "Custom Theme",
+    "dataColors": [
+        "#32628C",
+        "#57B7F2",
+        "#D9984A",
+        "#A66D3C",
+        "#F2F2F2"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#32628C"
+}
