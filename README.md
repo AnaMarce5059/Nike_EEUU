@@ -15,7 +15,6 @@ Este repositorio contiene el análisis comercial de Nike en EE. UU. entre 2020 y
 
 Estructura en estrella con la tabla de hechos `Ventas` y múltiples dimensiones relacionadas.
 
-![Modelo de Datos](images/modelo_datos.png)
 
 ## 📐 Medidas DAX
 
@@ -32,7 +31,7 @@ El tablero permite identificar oportunidades de mejora comercial y analizar la e
 
 ## 📄 Documentación Técnica
 
-- [Documentación Técnica del Dashboard Nike (2020–2024)](Docs/Documentacion_Tecnica.pdf)
+- [Documentacion Tecnica del Dashboard Nike (2020–2024)](Docs/Documentacion_Tecnica.pdf)
 - [Medidas DAX utilizadas](Docs/MEDIDAS_DAX.md)
 
 ## 🎨 Tema personalizado
