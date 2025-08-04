@@ -1,5 +1,8 @@
 # Dashboard Power BI – Nike (2020–2024)
 
+
+![alt text](image.png)
+
 Este repositorio contiene el análisis comercial de Nike en EE. UU. entre 2020 y 2024, desarrollado en Power BI. Incluye visualizaciones dinámicas, segmentaciones por trimestre, márgenes, campañas y productos destacados.
 
 ## 📁 Estructura
